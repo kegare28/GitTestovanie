@@ -1,12 +1,20 @@
 Ja som kvetinac
-	mam typ porcelan
-	mam v sebe kvetinu
+	som hnedy
 	som ovalny
+	som z porcelanu	
+	mam misku
+	mam v sebe kvetinu
+
 	mam niekolko vody
+	ciastka je 30
 
 	funkcia polievanie
-		polej ma ak niesom poliaty
+		ak mam malo vody zapnut zavlazovanie
 
 	funkcia som poliaty
 		ked mam menej ako polovicu vody
-		som nepoliaty
+		mam malo vody
+
+	funkcia zaplat
+		ak som zapol zavlazovanie odober z uctu ciatsku
+		ak je na ucte menej ako ciastka odosli sms
