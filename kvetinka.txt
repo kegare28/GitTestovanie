@@ -2,3 +2,9 @@ ja som kvetinka
 	som zelena
 	kvitnem
 	Rastiem
+
+	funkcia potiahni_vodu
+		potiahni vodu ak nejaka je
+
+	funkcia je nejaka voda v kvetinaci	
+		zisti ci je nejaka voda v kvetinaci
