@@ -2,3 +2,11 @@ Ja som kvetinac
 	mam typ porcelan
 	mam v sebe kvetinu
 	som ovalny
+	mam niekolko vody
+
+	funkcia polievanie
+		polej ma ak niesom poliaty
+
+	funkcia som poliaty
+		ked mam menej ako polovicu vody
+		som nepoliaty
